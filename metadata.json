@@ -40,11 +40,23 @@
       "unpublishedUserSetOnLoad": false,
       "publishedUserSetOnLoad": false
     },
+    "crudpage_1 Copy_JSObject1.myFun1": {
+      "unpublishedUserSetOnLoad": false,
+      "publishedUserSetOnLoad": false
+    },
+    "crudpage_1 Copy_JSObject1.myFun2": {
+      "unpublishedUserSetOnLoad": false,
+      "publishedUserSetOnLoad": false
+    },
     "crudpage_1 Copy_SelectQuery": {
       "unpublishedUserSetOnLoad": true,
       "publishedUserSetOnLoad": true
     },
     "crudpage_1 Copy_UpdateQuery": {
+      "unpublishedUserSetOnLoad": false,
+      "publishedUserSetOnLoad": false
+    },
+    "crudpage_1 Copy_get_users": {
       "unpublishedUserSetOnLoad": false,
       "publishedUserSetOnLoad": false
     },
